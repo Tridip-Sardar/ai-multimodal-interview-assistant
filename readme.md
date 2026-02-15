@@ -170,6 +170,3 @@ This project was developed for AI For Bharat 2026.
 ---
 
 **Built with ❤️ for better interview preparation**
-```
-
----
