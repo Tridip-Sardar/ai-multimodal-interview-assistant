@@ -17,7 +17,7 @@
 - **[Requirements Document](requirements.md)** - Generated using Kiro
 - **[Design Document](design.md)** - Generated using Kiro
 - **[Architecture Diagram](docs/architecture.png)** - System architecture visualization
-- **[Presentation](docs/presentation.pptx)** - Project pitch deck
+- **[Presentation](docs/presentation.pdf)** - Project pitch deck
 
 ---
 
